@@ -1,0 +1,6 @@
+var x = args[0].toInt()
+    var z = args[1].toInt()
+
+    println("x=$x, z=$z")
+    var mensaje = "x + z x+z:${ x + z }"
+    println(mensaje)
